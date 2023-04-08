@@ -1,0 +1,4 @@
+// Build and output folder in src
+// gitignore
+src/build/**
+src/output/**
